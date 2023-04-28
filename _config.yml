@@ -42,3 +42,9 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- Gemfile.lock
+- Gemfile
+- "*.bat"
+- _config.yml
+
+destination: docs
