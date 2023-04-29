@@ -10,20 +10,22 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Control System Upgrades </h2>
 		</header>
 		<p>We can help you upgrade your existing automation systems to improve performance, increase efficiency, and reduce downtime.</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<!-- <a href="generic.html" class="image"> -->
+			<span class="image main">
 			<img src="{% link assets/images/1.jpg %}" alt="" data-position="center center" />
+			</span>
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
@@ -39,7 +41,9 @@ nav-menu: true
 	</section>
 	<section>
 		<!-- <a href="generic.html" class="image"> -->
+			<span class="image main">
 			<img src="{% link assets/images/4.png %}" alt="" data-position="top center" />
+			</span>
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
@@ -55,12 +59,15 @@ nav-menu: true
 	</section>
 	<section>
 		<!-- <a href="generic.html" class="image"> -->
-			<img src="{% link assets/images/2.jpg %}" alt="" data-position="top center" />
+			<span class="image main">
+			<img src="{% link assets/images/3.jpg %}" alt="" data-position="top center" />
+			</span>
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Industrial Automation Parts Sourcing</h3>
+					<h3>Industrial Automation Parts Sourcing
+					</h3>
 				</header>
 				<p>We can help you source hard-to-find automation parts and components from trusted suppliers, saving you time and money.</p>
 				<!-- <ul class="actions">
@@ -68,7 +75,6 @@ nav-menu: true
 				</ul> -->
 			</div>
 		</div>
- 			<img src="{% link assets/images/3.jpg %}" alt="" data-position="top center" />
 	</section>
 </section>
 
