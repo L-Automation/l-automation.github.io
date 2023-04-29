@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
+landing-title: 'Logic Automation Design'
+description: sdasd
+image: assets/images/1.jpg
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Our mission is to provide exceptional service and expertise to our customers. We believe in building long-term relationships with our clients and providing them with reliable solutions that meet their specific needs. Whether you need help sourcing parts for a legacy system or a customized solution for a unique application, we have the knowledge and resources to help you succeed. We are committed to quality, reliability, and innovation, and we are dedicated to helping our customers improve their operations through effective automation control solutions.
