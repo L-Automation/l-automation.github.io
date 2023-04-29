@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Logic Automation Design'
-description: sdasd
+description: Powerful Results
 image: assets/images/1.jpg
 author: null
 show_tile: false
