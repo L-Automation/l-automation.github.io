@@ -1,7 +1,7 @@
 # site settings
 title: Logic Automation Design
 subtitle: Powerful Results
-email: info@LogicAutomationDesign.com
+email: Info@logicAutomationDesign.com
 description: Solving Your Automation Needs<br /> with Customized Solutions
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://LogicAutomationDesign.com" # the base hostname & protocol for your site
