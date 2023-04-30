@@ -1,6 +1,6 @@
 ---
 title: Services
-permalink: "/Services"
+permalink: "/services"
 layout: landing
 description: null
 image: assets/images/troubleshooting.jpg
