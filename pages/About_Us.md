@@ -1,9 +1,20 @@
 ---
 layout: post
+permalink: "/About_Us"
 title: About Us
 description: null
 image: assets/images/2.jpg
 nav-menu: true
+
+meta_description: null
+meta_og_title: "About Us | Logic Automation Design"
+meta_og_type: "website" # Website , Music, Video, No Vertical --- https://ogp.me/#types
+meta_og_image: "assets/images/1.jpg"
+meta_og_description: ""
+meta_og_locale: "en_CA"
+meta_twitter_card: "summary"
+meta_twitter_site: ""
+meta_twitter_creator: ""
 ---
 At Logic Automation Design, we specialize in providing high-quality automation control parts to help businesses optimize their operations. Our extensive inventory of used parts includes a wide range of brands and models, ensuring that you can find the specific parts you need for your automation system. In addition, we also design and manufacture aftermarket solutions for unique challenges and requirements. With years of experience in the industry, we have the expertise to help you find the best solutions for your automation needs.
 
