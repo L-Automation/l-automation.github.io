@@ -1,10 +1,44 @@
 # site settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://LogicAutomationDesign.com" # the base hostname & protocol for your site
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      permalink: /:basename/
+      
+# build settings
+sass:
+  style: compressed
+
+# includes
+include: [".well-known"]
+
+# excludes 
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
+- Gemfile.lock
+- Gemfile
+- "*.bat"
+- _config.yml
+
+#build destination
+destination: docs
+
+
+# -------------------
+# Theme Config
+# --------------------
 title: Logic Automation Design
 subtitle: Powerful Results
 email: Info@LogicAutomationDesign.com
 description: Solving Your Automation Needs<br /> with Customized Solutions
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://LogicAutomationDesign.com" # the base hostname & protocol for your site
+
 author:
 street_address:
 city:
@@ -30,21 +64,3 @@ socials:
   Twitter: 
   Facebook:
   Slack:
-
-# build settings
-markdown: kramdown
-
-sass:
-  style: compressed
-
-exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
-- Gemfile.lock
-- Gemfile
-- "*.bat"
-- _config.yml
-
-destination: docs
