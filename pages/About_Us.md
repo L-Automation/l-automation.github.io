@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: "/About_Us"
+permalink: "/about_us"
 title: About Us
 description: null
 image: assets/images/2.jpg
