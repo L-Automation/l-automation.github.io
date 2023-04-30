@@ -16,7 +16,7 @@ meta_og_image_alt: null
 meta_og_image_width: 1200
 meta_og_image_height: 620
 meta_og_image_type: image/png
-meta_og_description: "Our mission is to provide exceptional service and expertise to our customers."
+meta_og_description: "Solving Your Automation Needs With Customized Solutions."
 meta_og_locale: "en_CA"
 meta_twitter_card: "summary"
 meta_twitter_site: ""
