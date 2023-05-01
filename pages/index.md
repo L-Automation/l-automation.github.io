@@ -11,7 +11,7 @@ show_tile: false
 meta_description: null
 meta_og_title: "Home | Logic Automation Design"
 meta_og_type: "object" # Website , Music, Video, No Vertical --- https://ogp.me/#types
-meta_og_image: "assets/images/1.jpg"
+meta_og_image: "assets/images/cb.jpg"
 meta_og_image_alt: null
 meta_og_image_width: 1200
 meta_og_image_height: 620

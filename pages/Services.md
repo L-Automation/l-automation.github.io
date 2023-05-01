@@ -9,12 +9,12 @@ nav-menu: true
 meta_description: null
 meta_og_title: "Services | Logic Automation Design"
 meta_og_type: "object" # Website , Music, Video, No Vertical --- https://ogp.me/#types
-meta_og_image: "assets/images/1.jpg"
+meta_og_image: "assets/images/cb.jpg"
 meta_og_image_alt: null
 meta_og_image_width: 1200
 meta_og_image_height: 620
 meta_og_image_type: image/png
-meta_og_description: "Solving Your Automation Needs With Customized Solutions."
+meta_og_description: "Your source for high-quality automation control parts, custom solutions, and expert training and consulting services. Let us help you optimize your operations with reliable automation solutions."
 meta_og_locale: "en_CA"
 meta_twitter_card: "summary"
 meta_twitter_site: ""
