@@ -16,11 +16,11 @@ meta_og_image_alt: null
 meta_og_image_width: 1200
 meta_og_image_height: 620
 meta_og_image_type: image/png
-meta_og_description: "Solving Your Automation Needs With Customized Solutions."
+meta_og_description: "Customized automation solutions for your business needs. Let us help you optimize your operations with effective automation control systems and expert support."
 meta_og_locale: "en_CA"
 meta_twitter_card: "summary_large_image"
 meta_twitter_title: "Home | Logic Automation Design"
-meta_twitter_description: "Solving Your Automation Needs With Customized Solutions."
+meta_twitter_description: "Customized automation solutions for your business needs. Let us help you optimize your operations with effective automation control systems and expert support."
 meta_twitter_site: ""
 meta_twitter_image: "assets/images/cb.jpg"
 meta_twitter_creator: ""
