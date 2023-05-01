@@ -14,8 +14,11 @@ meta_og_type: "website" # Website , Music, Video, No Vertical --- https://ogp.me
 meta_og_image: "assets/images/1.jpg"
 meta_og_description: ""
 meta_og_locale: "en_CA"
-meta_twitter_card: "summary"
+meta_twitter_card: "summary_large_image"
+meta_twitter_title: "Blog | Logic Automation Design"
+meta_twitter_description: "Blog"
 meta_twitter_site: ""
+meta_twitter_image: "assets/images/cb.jpg"
 meta_twitter_creator: ""
 ---
 

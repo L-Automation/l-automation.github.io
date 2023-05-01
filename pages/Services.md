@@ -16,8 +16,11 @@ meta_og_image_height: 620
 meta_og_image_type: image/png
 meta_og_description: "Your source for high-quality automation control parts, custom solutions, and expert training and consulting services. Let us help you optimize your operations with reliable automation solutions."
 meta_og_locale: "en_CA"
-meta_twitter_card: "summary"
+meta_twitter_card: "summary_large_image"
+meta_twitter_title: "Services | Logic Automation Design"
+meta_twitter_description: "Your source for high-quality automation control parts, custom solutions, and expert training and consulting services. Let us help you optimize your operations with reliable automation solutions."
 meta_twitter_site: ""
+meta_twitter_image: "assets/images/cb.jpg"
 meta_twitter_creator: ""
 ---
 

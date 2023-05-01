@@ -16,8 +16,11 @@ meta_og_image_height: 620
 meta_og_image_type: image/png
 meta_og_description: "Logic Automation Design specializes in providing high-quality automation control parts for legacy equipment. Our experienced team is dedicated to exceptional service and helping businesses optimize their operations."
 meta_og_locale: "en_CA"
-meta_twitter_card: "summary"
+meta_twitter_card: "summary_large_image"
+meta_twitter_title: "About Us | Logic Automation Design"
+meta_twitter_description: "Logic Automation Design specializes in providing high-quality automation control parts for legacy equipment. Our experienced team is dedicated to exceptional service and helping businesses optimize their operations."
 meta_twitter_site: ""
+meta_twitter_image: "assets/images/cb.jpg"
 meta_twitter_creator: ""
 ---
 At Logic Automation Design, we specialize in providing high-quality automation control parts to help businesses optimize their operations. Our focus on legacy equipment means we have an extensive inventory of parts that are difficult to find elsewhere. Our team of experts are dedicated to sourcing and stocking a wide range of brands and models to ensure that you can find the specific parts you need for your automation system. In addition to providing parts, we also design and manufacture customized aftermarket solutions for unique challenges and requirements.
